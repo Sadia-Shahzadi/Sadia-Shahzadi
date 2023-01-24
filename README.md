@@ -1,3 +1,5 @@
+![Black Gradient General Manager LinkedIn Banner](https://user-images.githubusercontent.com/123292566/214244907-5fe25023-fc0f-4866-a0ee-51a1e88c4476.png)
+
 <h1 align="center">Hi 👋, I'm Sadia Shahzadi</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 <img align="right" alt="coding" width="400px"src="https://camo.githubusercontent.com/5ff9182d12e799168a3bb67b88df7388ae08ede3/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3837352f312a7164415731546a434e353768316c6275757a766368672e676966" >
