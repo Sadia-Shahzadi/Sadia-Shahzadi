@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **HTML, CSS, JAVASCRIPT**
 
-- 📫 How to reach me **asad.zaman54399@gmail.com**
+- 📫 How to reach me **sadiashahzadi068@gmail.com**
 
 - ⚡ Fun fact **I love my laptop💢❤**
 
